@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+	<book>
+		<author>권혁빈</author>
+		<name>생명과학(키포인트)</name>
+		<catnum>10</catnum>
+	</book>
+	<book>
+		<author>권혁빈</author>
+		<name>캠벨 생명과학(10판)</name>
+		<catnum>11</catnum>
+	</book>
+	<book>
+		<author>권혁빈</author>
+		<name>생명과학 실험서(2판)</name>
+		<catnum>12</catnum>
+	</book>
+</books>
+

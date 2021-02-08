@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book>
+        <author>村上 龍</author>
+        <name>限りなく透明に近い青</name>
+        <catnum>20</catnum>
+    </book>
+    <book>
+        <author>三島 由紀夫</author>
+        <name>真夏の死と他の物語</name>
+        <catnum>21</catnum>
+    </book>
+    <book>
+        <author>小川 洋子</author>
+        <name>ダイビングプール</name>
+        <catnum>22</catnum>
+    </book>
+</books>

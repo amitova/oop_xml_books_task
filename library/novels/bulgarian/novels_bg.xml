@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book>
+        <author>Димитър Талев</author>
+        <name>Железният светилник</name>
+        <catnum>30</catnum>
+    </book>
+    <book>
+        <author>Димитър Димов</author>
+        <name>Тютюн</name>
+        <catnum>31</catnum>
+    </book>
+    <book>
+        <author>Иван Вазов</author>
+        <name>Под игото</name>
+        <catnum>32</catnum>
+    </book>
+</books>
+
